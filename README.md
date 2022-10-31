@@ -3,6 +3,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/billykwooten/ecobee-exporter.svg)
 ![Docker Automated](https://img.shields.io/docker/cloud/automated/billykwooten/ecobee-exporter.svg)
 ![Docker Build](https://img.shields.io/docker/cloud/build/billykwooten/ecobee-exporter.svg)
+Builds are done with github actions
 
 Lots of references from: [https://github.com/dichro/ecobee](https://github.com/dichro/ecobee)
 
